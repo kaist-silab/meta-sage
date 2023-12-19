@@ -1,0 +1,15 @@
+Meta-SAGE/test/POMO/CVRP/2_SAGE/__*
+Meta-SAGE/test/POMO/TSP/2_SAGE/__*
+Meta-SAGE/test/utils/__*
+Meta-SAGE/test/Sym-NCO/CVRP/2_SAGE/__*
+Meta-SAGE/test/Sym-NCO/TSP/2_SAGE/__*
+Meta-SAGE/train/POMO/CVRP/__*
+Meta-SAGE/train/POMO/CVRP/2_Meta/__*
+Meta-SAGE/train/POMO/CVRP/2_Meta/emb_label
+Meta-SAGE/train/POMO/TSP/__*
+Meta-SAGE/train/POMO/TSP/2_Meta/__*
+Meta-SAGE/train/POMO/TSP/2_Meta/emb_label
+Meta-SAGE/train/Sym-NCO/Sym-NCO-POMO/CVRP/2_Meta/__*
+Meta-SAGE/train/Sym-NCO/Sym-NCO-POMO/CVRP/2_Meta/emb_label
+Meta-SAGE/train/Sym-NCO/Sym-NCO-POMO/TSP/2_Meta/__*
+Meta-SAGE/train/Sym-NCO/Sym-NCO-POMO/TSP/2_Meta/emb_label
